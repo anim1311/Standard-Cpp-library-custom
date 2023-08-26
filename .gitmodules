@@ -1,0 +1,3 @@
+[submodule "strings_cpp"]
+	path = strings_cpp
+	url = https://github.com/anim1311/strings_cpp.git
